@@ -77,7 +77,7 @@ if __name__ == '__main__':
     # Example usage
     input_directory = r"G:\My Drive\Programming\Python VS Code\Dyson Mapper\dyson_maps - Copy"  # Update this to your input directory path
     output_directory = r"G:\My Drive\Programming\Python VS Code\Dyson Mapper\dyson_maps_jpg"  # Update this to your output directory path
-    resize_percentage = 25  # Example: Resize to 50% of the original size
+    resize_percentage = 100  # Example: Resize to 50% of the original size
     quality = 90  # Example: Set JPEG quality to 90
     output_format = 'JPG'  # Choose 'JPG' or 'PNG' for the output format
 
